@@ -1,0 +1,6 @@
+/.env
+/tmp
+/yarn-error.log
+/yarn.lock
+node_modules
+node_modules
